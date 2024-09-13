@@ -1,0 +1,6 @@
+{
+    "recommendations": [
+        "ms-vscode.anycode-rust",
+        "rust-lang.rust-analyzer"
+    ]
+}
